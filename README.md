@@ -1,4 +1,4 @@
-      📅 Today is {{TODAY}}
+      📅 Today is 2025-03-25
 
       /\_/\  
     ( - . - ) zzZ   
