@@ -1,3 +1,5 @@
+      📅 Today is {{TODAY}}
+
       /\_/\  
     ( - . - ) zzZ   
     /  >❤️<  )        // Loading...
