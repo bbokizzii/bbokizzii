@@ -1,5 +1,5 @@
       📅 Today is 2025-03-25
-<img src="https://github.com/user-attachments/assets/b87b9ee4-f9d2-4e6f-b34f-959a2d8f5e58" alt="bbokizzii banner" style="width:60%;" />
+<img src="https://github.com/user-attachments/assets/b87b9ee4-f9d2-4e6f-b34f-959a2d8f5e58" alt="bbokizzii banner" style="width:100%;" />
 
       /\_/\  
     ( - . - ) zzZ   
